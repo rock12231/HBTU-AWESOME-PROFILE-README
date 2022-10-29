@@ -1,57 +1,45 @@
+<h1 align="center">Hi 👋, I'm Divyanshu</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-[![view](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rock12231/HBTU-AWESOME-PROFILE-README/edit/master/README.md)](https://hits.seeyoufarm.com)    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-idblfs&label=Profile%20views&color=0e75b6&style=flat" alt="dev-idblfs" /> </p>
 
-<h1>HBTU AWESOME PROFILE README <img src="https://camo.githubusercontent.com/8dd1044426df54e4ae42f9df9d1957f058c02333f8776e66dc6d371a442529af/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313539333535353338392f393537392f626c6f625f657863697465642e6769663f31353933353535333839" alt="yo"  height="35" /></h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-idblfs" alt="dev-idblfs" /></a> </p>
 
-<h3>Contributions are welcome <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
+<p align="left"> <a href="https://twitter.com/devidblfs" target="blank"><img src="https://img.shields.io/twitter/follow/devidblfs?logo=twitter&style=for-the-badge" alt="devidblfs" /></a> </p>
 
-<p align="center">
-<a href="#"><img src="https://github.com/rock12231/HBTU-AWESOME-PROFILE-README/blob/master/cover.jpg" alt="College IMG"></a>
+- 💬 Ask me about **node, react, REST API, Project Architechture, skelton**
+
+- 📫 How to reach me **developer.idblfs@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FJynWvccu-ZjvXDrtF1lJ8RsS-pAv1EO/view?usp=sharing](https://drive.google.com/file/d/1FJynWvccu-ZjvXDrtF1lJ8RsS-pAv1EO/view?usp=sharing)
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/dev-idblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev-idblfs" height="30" width="40" /></a>
+<a href="https://dev.to/dev-idblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev-idblfs" height="30" width="40" /></a>
+<a href="https://twitter.com/devidblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devidblfs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-idblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-idblfs" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/dev-idblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dev-idblfs" height="30" width="40" /></a>
+<a href="https://codesandbox.com/dev-idblfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dev-idblfs" height="30" width="40" /></a>
+<a href="https://instagram.com/_di_vy_an_sh_4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_di_vy_an_sh_4u" height="30" width="40" /></a>
 </p>
 
-You are most welcome to the list of HBTU awesome GitHub profile readme templates.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Contributions are welcome. Read below how to contribute. Feel free to add your or someone else's GitHub profile README file to this list.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dev-idblfs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dev-idblfs" /></a><a href="https://ko-fi.com/dev-idblfs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dev-idblfs" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-idblfs&show_icons=true&locale=en&layout=compact" alt="dev-idblfs" /></p>
 
-## How to contribute your github profile readme:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-idblfs&show_icons=true&locale=en" alt="dev-idblfs" /></p>
 
-* Step 1: Fork this repository.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-idblfs&" alt="dev-idblfs" /></p>
 
-* Step 2: Clone the repository in your local machine.
-
-* Step 3: Open templates directory and create a new markdown file in the HBTU folder. If you are not Student of HBTU then create a file in the Other folder. Your file name should be your GitHub username.  For example, if your GitHub username is `hbtu-student`, then your file name should be `hbtu-student.md`.
-
-* Step 4: Copy and Paste your GitHub profile readme content in `hbtu-student.md`.
-
-* Step 5: At the end of the file add the following content with appropriate changes.
-
-  - Credit: `[username](https://github.com/username)` Example : `Credit:[hbtu-student](https://github.com/hbtu-student)`
-  - Last Edited on: Date when you edited this file. The date must be in DD/MM/YYYY format. Example: `Last Edited on: 29/10/2022`
-
-- Step 8: Save the file and commit your changes with the proper message. Your message must contain your username.
-
-- Step 9: Push your commit to GitHub, [Git commands](https://github.com/dev-idblfs/HBTU-AWESOME-PROFILE-README/blob/master/contribution.md)
-
-- Step 10: Submit a Pull Request, [PR commands](https://github.com/dev-idblfs/HBTU-AWESOME-PROFILE-README/blob/master/contribution.md)
-
-- Step 11: All Done.
-
-
-## Folder Structure: 📁
-
-```
-root
-├── templates(folder)
-│      ├── HBTU(folder)
-│      │    ├── hbtu-student.md
-│      │    └──  hbtu-student-2.md
-│      │
-│      └──Other(folder)     
-│             ├── other-student.md
-│             └── other-student-2.md
-│
-└── README.MD
-```
-
-<h3 align="center" >Don't forget to hit the ⭐</h3>
+ - Credit:[dev-idblfs](https://github.com/dev-idblfs)`
+ - Last Edited on: 29/10/2022
