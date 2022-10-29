@@ -3,7 +3,7 @@
 <h3>Contributions are welcome <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <p align="center">
-<a href="#"><img src="https://github.com/rock12231/HBTU-AWESOME-PROFILE-README/master/cover.jpg" alt="College IMG" width="500" height="400"></a>
+<a href="#"><img src="https://github.com/rock12231/HBTU-AWESOME-PROFILE-README/blob/master/cover.jpg" alt="College IMG"></a>
 </p>
 
 You are most welcome to the list of HBTU awesome GitHub profile readme templates.
