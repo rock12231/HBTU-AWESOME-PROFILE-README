@@ -17,20 +17,20 @@ Contributions are welcome. Read below how to contribute. Feel free to add your o
 
 * Step 2: Clone the repository in your local machine.
 
-* Step 3: Open templates direcoty and create a new markdown file in HBTU folder. If you are not Student of HBTU then create file in Other folder. Your file name should be your GitHub username.  For example, if your GitHub username is `hbtu-student`, then your file name should be `hbtu-student.md`.
+* Step 3: Open templates directory and create a new markdown file in the HBTU folder. If you are not Student of HBTU then create a file in the Other folder. Your file name should be your GitHub username.  For example, if your GitHub username is `hbtu-student`, then your file name should be `hbtu-student.md`.
 
 * Step 4: Copy and Paste your GitHub profile readme content in `hbtu-student.md`.
 
 * Step 5: At the end of the file add the following content with appropriate changes.
 
-  - Credit: `[username](https://github.com/username)` Example : `[hbtu-student](https://github.com/hbtu-student)`
+  - Credit: `[username](https://github.com/username)` Example : `Credit:[hbtu-student](https://github.com/hbtu-student)`
   - Last Edited on: Date when you edited this file. The date must be in DD/MM/YYYY format. Example: `Last Edited on: 01/10/2021`
 
 - Step 8: Save the file and commit your changes with the proper message. Your message must contain your username.
 
-- Step 9: Push your commit to GitHub.
+- Step 9: Push your commit to GitHub, [Git commands](https://github.com/rock12231/HBTU-AWESOME-PROFILE-README/blob/master/contribution.md)
 
-- Step 10: Submit a Pull Request.
+- Step 10: Submit a Pull Request, [PR commands](https://github.com/rock12231/HBTU-AWESOME-PROFILE-README/blob/master/contribution.md)
 
 - Step 11: All Done.
 
@@ -42,11 +42,12 @@ root
 ├── templates(folder)
 │      ├── HBTU(folder)
 │      │    ├── hbtu-student.md
-|      |    └──  hbtu-student-2.md
-|      |
+│      │    └──  hbtu-student-2.md
+│      │
 │      └──Other(folder)     
 │             ├── other-student.md
-|             └── other-student-2.md
+│             └── other-student-2.md
 │
 └── README.MD
 ```
+
