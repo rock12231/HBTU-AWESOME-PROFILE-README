@@ -3,7 +3,7 @@
 <h3>Contributions are welcome <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+<a href="#"><img src="https://github.com/rock12231/HBTU-AWESOME-PROFILE-README/master/cover.jpg" alt="College IMG" width="500" height="400"></a>
 </p>
 
 You are most welcome to the list of HBTU awesome GitHub profile readme templates.
@@ -51,11 +51,4 @@ root
 └── README.MD
 ```
 
-*<center><h3>Don't forget to hit the ⭐</h3></center>*
-<center>
-<iframe src="https://ghbtns.com/github-btn.html?user=rock12231&repo=HBTU-AWESOME-PROFILE-README&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=rock12231&repo=HBTU-AWESOME-PROFILE-README&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=rock12231&repo=HBTU-AWESOME-PROFILE-README&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-</center>
+<h3 align="center" >Don't forget to hit the ⭐</h3>
