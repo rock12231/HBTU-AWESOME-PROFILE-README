@@ -47,6 +47,6 @@ git push -u origin <your_branch_name>
 
 **Step 10.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-**Step 11.** Click on `Create Pull Request`.
+**Step 11.** Click on `Create Pull Request`, [Hint](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
 **Step 12** WoW! You all set. Wait for review of your submission to be merged.
